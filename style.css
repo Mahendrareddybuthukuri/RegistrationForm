@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.main {
+  color: brown;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+label {
+  margin: 30px;
+  font-weight: bold;
+}
+
+input {
+  margin-left: 30px;
+  margin-bottom: 10px;
+  margin-top: 8px;
+}
+select {
+  margin-left: 30px;
+  margin-bottom: 10px;
+  margin-top: 8px;
+}
+.submit-btn {
+  text-align: center;
+  margin-left: 500px;
+  padding: 12px 30px;
+  border-radius: 8%;
+  background-color: #1faa59;
+  color: #fff;
+}
